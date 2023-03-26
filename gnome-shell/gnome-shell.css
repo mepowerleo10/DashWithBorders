@@ -2368,7 +2368,7 @@ StScrollBar {
 #LookingGlassDialog {
   background-color: #232323;
   border-radius: 8px 8px 8px 8px;
-  
+  margin-top: 100px;
   border: 1px solid rgba(255, 255, 255, 0.02);
   color: white;
   padding: 6px;
